@@ -2,18 +2,15 @@ html, body, header, h1, h2, p {
   margin: 0;
   padding: 0;
   font-size: 1em;
+  font-weight: 200;
   color: #fff;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1)
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .05)
 }
 
 body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-  background-color: #31bffb;
+  background-color: #50bbe8;
   text-align: center;
-}
-
-h1,h2,a.download,p.description {
-  font-weight: 300;
 }
 
 a {
@@ -52,10 +49,15 @@ footer {
   padding: 0;
   width: 100%;
   height: 40px;
+  font-size: .8em;
 }
 
 .cover {
   width: 290px;
+}
+
+.cover img {
+  box-shadow: 0px 4px 11px 3px rgba(0, 0, 0, .05);
 }
 
 .contents {
@@ -63,4 +65,42 @@ footer {
   top: 100px;
   right: 0;
   width: 400px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 2.7em;
+  font-weight: 200;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+.subtitle {
+  font-size: .8em;
+  opacity: .5;
+}
+
+.description {
+  margin: 20px 0;
+}
+
+.author {
+  text-align: right;
+}
+
+a.download {
+  padding: 15px 0;
+  text-align: center;
+  display: block;
+  margin-bottom: 25px;
+  background-color: #095787;
+  text-decoration: none;
+  font-size: 1.2em;
+  border-radius: 6px;
+}
+
+.social iframe {
+  margin-right: 10px;
 }
