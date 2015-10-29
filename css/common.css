@@ -8,6 +8,7 @@ html, body, header, footer, h1, h2 {
 
 body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  background-color: #29c0ff;
 }
 
 h1,h2,a.download,p.description {
