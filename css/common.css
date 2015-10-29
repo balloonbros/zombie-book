@@ -8,7 +8,7 @@ html, body, header, footer, h1, h2 {
 
 body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-  background-color: #29c0ff;
+  background-color: #ccc;
 }
 
 h1,h2,a.download,p.description {
@@ -22,4 +22,9 @@ a {
 
 a:hover {
   text-decoration: none;
+}
+
+.container {
+  width: 740px;
+  margin: 100px auto;
 }
