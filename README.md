@@ -1,1 +1,2 @@
-The Zombie Book. Coming.
+## The Zombie Book. 
+http://balloonbros.cc/zombie-book/
