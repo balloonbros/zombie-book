@@ -1,2 +1,2 @@
 ## The Zombie Book. 
-http://balloonbros.cc/zombie-book/
+[<img src="http://balloonbros.cc/zombie-book/images/cover.png">](http://balloonbros.cc/zombie-book/)
